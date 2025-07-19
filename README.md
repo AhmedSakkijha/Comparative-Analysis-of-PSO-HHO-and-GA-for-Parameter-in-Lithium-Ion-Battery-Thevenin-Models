@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-PSO-HHO-and-GA-for-Parameter-in-Lithium-Ion-Battery-Thevenin-Models
+Lithium-ion battery modeling is important for energy storage systems such as electric vehicles and renewable energy sources here comparison of three math optimization algorithms (PSO),(HHO),(GA), to estimate the parameters of R0 internal resistance, R1 (polarization resistance), and C1 for a first-order Thevenin equivalent circuit model
